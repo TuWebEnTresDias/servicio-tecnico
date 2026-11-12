@@ -5,7 +5,7 @@ Landing estática en español argentino para el negocio **Servicio Técnico**, e
 ## Contenido
 
 - Presentación general del negocio y sus seis áreas de servicio.
-- Ilustraciones SVG propias para representar las principales áreas de servicio.
+- Galería local con las diez fotos compartidas por el profesional, optimizadas en WebP.
 - Consultas directas a WhatsApp y navegación adaptada a móvil.
 - La matrícula se atribuye únicamente a refrigeración; gas, plomería y electricidad industrial se indican como no matriculados, según la información recibida.
 - La primera versión queda con `noindex` para revisión antes de habilitar indexación.
