@@ -1,0 +1,21 @@
+# Servicio Técnico
+
+> Servicios técnicos para hogares y equipos de trabajo en Posadas, Misiones, Argentina.
+
+- Sitio: https://tuwebentresdias.github.io/servicio-tecnico/
+- Ubicación informada: Posadas, Misiones.
+- Contacto: WhatsApp en https://wa.me/5493765117196
+
+## Servicios
+
+- Refrigeración: heladeras, freezers, aires acondicionados, máquinas de helado y mantenimiento de equipos. El profesional informó estar matriculado en refrigeración.
+- Gas: equipamiento e instalaciones de gas. El profesional informó que no está matriculado como gasista.
+- Plomería: instalaciones de agua con termofusión. El profesional informó que no está matriculado como plomero.
+- Electricidad domiciliaria: servicios eléctricos para el hogar y arreglos generales.
+- Electricidad industrial: instalaciones, mantenimiento eléctrico, arreglos generales y maquinaria industrial. El profesional informó que no está matriculado como electricista industrial.
+- Pintura: interiores y exteriores.
+
+## Más información
+
+- [Descripción completa](https://tuwebentresdias.github.io/servicio-tecnico/llms-full.txt)
+- [Sitio web](https://tuwebentresdias.github.io/servicio-tecnico/)
