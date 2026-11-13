@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
-  <defs><linearGradient id="bg" x1="0" y1="0" x2="1200" y2="630" gradientUnits="userSpaceOnUse"><stop stop-color="#102B25"/><stop offset="1" stop-color="#17483B"/></linearGradient><radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="matrix(504 0 0 431 1011 117)" gradientUnits="userSpaceOnUse"><stop stop-color="#DCF46B" stop-opacity=".2"/><stop offset="1" stop-color="#DCF46B" stop-opacity="0"/></radialGradient></defs>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1200" y2="630" gradientUnits="userSpaceOnUse"><stop stop-color="#031947"/><stop offset="1" stop-color="#033D8A"/></linearGradient><radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="matrix(460 0 0 390 1010 130)" gradientUnits="userSpaceOnUse"><stop stop-color="#89C6CB" stop-opacity=".32"/><stop offset="1" stop-color="#89C6CB" stop-opacity="0"/></radialGradient></defs>
   <path fill="url(#bg)" d="M0 0h1200v630H0z"/><path fill="url(#glow)" d="M0 0h1200v630H0z"/>
-  <circle cx="1016" cy="314" r="177" stroke="#DCF46B" stroke-opacity=".35"/><circle cx="1016" cy="314" r="213" stroke="#DCF46B" stroke-opacity=".13"/><circle cx="1016" cy="314" r="246" stroke="#DCF46B" stroke-opacity=".08"/>
-  <rect x="80" y="82" width="62" height="62" rx="20" fill="#DCF46B"/><path d="M111 95v36m-18-18h36" stroke="#102B25" stroke-width="3" stroke-linecap="round"/>
-  <text x="80" y="238" fill="#C5D1C5" font-family="Arial,sans-serif" font-size="23" font-weight="700" letter-spacing="6">POSADAS · MISIONES</text>
-  <text x="76" y="342" fill="#FFFEF9" font-family="Georgia,serif" font-size="78">Servicio Técnico</text>
-  <text x="80" y="407" fill="#DCF46B" font-family="Georgia,serif" font-size="38">Distintas soluciones, un solo contacto.</text>
-  <text x="80" y="518" fill="#C5D1C5" font-family="Arial,sans-serif" font-size="20" letter-spacing="2">REFRIGERACIÓN · ELECTRICIDAD · GAS · PLOMERÍA · PINTURA</text>
+  <circle cx="1016" cy="314" r="177" stroke="#89C6CB" stroke-opacity=".4"/><circle cx="1016" cy="314" r="213" stroke="#89C6CB" stroke-opacity=".18"/><circle cx="1016" cy="314" r="246" stroke="#89C6CB" stroke-opacity=".1"/>
+  <rect x="80" y="82" width="62" height="62" rx="18" fill="#89C6CB"/><path d="M111 96v34m-17-17h34" stroke="#031947" stroke-width="3" stroke-linecap="round"/>
+  <text x="80" y="238" fill="#BFD4E0" font-family="Arial,sans-serif" font-size="23" font-weight="700" letter-spacing="6">POSADAS · MISIONES</text>
+  <text x="76" y="342" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="70" font-weight="700">Maidana</text>
+  <text x="80" y="409" fill="#89C6CB" font-family="Arial,sans-serif" font-size="39">Servicio Técnico</text>
+  <text x="80" y="520" fill="#D7E4EE" font-family="Arial,sans-serif" font-size="20" letter-spacing="2">REFRIGERACIÓN · ELECTRICIDAD · GAS · PLOMERÍA · PINTURA</text>
 </svg>
