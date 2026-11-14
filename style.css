@@ -171,25 +171,3 @@ button:focus-visible,a:focus-visible,summary:focus-visible{outline:3px solid var
 @media (prefers-reduced-motion:reduce){
   *,*::before,*::after{scroll-behavior:auto!important;animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important}
 }
-
-/* Google reviews invitation */
-.reviews-section{padding-top:clamp(62px,8vw,98px);padding-bottom:clamp(66px,8vw,100px)}
-.reviews-card{position:relative;display:grid;grid-template-columns:minmax(0,1.2fr) minmax(280px,.8fr);align-items:center;gap:clamp(28px,6vw,76px);padding:clamp(26px,5vw,56px);overflow:hidden;border:1px solid #cfe2e5;border-radius:24px;background:linear-gradient(118deg,#fff 8%,#edf8f8 100%);box-shadow:0 18px 48px #0319470b}
-.reviews-card::after{position:absolute;top:-120px;right:-62px;width:290px;height:290px;border:1px solid #89c6cb45;border-radius:50%;box-shadow:0 0 0 25px #89c6cb12,0 0 0 54px #89c6cb0b;content:"";pointer-events:none}
-.reviews-copy,.reviews-action{position:relative;z-index:1}
-.reviews-copy .eyebrow{margin-bottom:14px}
-.reviews-copy h2{max-width:600px;margin:0;color:var(--navy);font-size:clamp(2.25rem,4.2vw,3.55rem);font-weight:740;letter-spacing:-.045em;line-height:1.08}
-.reviews-description{max-width:590px;margin:16px 0 0;color:var(--muted);font-size:.94rem;line-height:1.7}
-.reviews-action{display:flex;flex-direction:column;align-items:flex-start;gap:13px;padding:23px;border:1px solid #dce8ec;border-radius:18px;background:#ffffffed;box-shadow:0 12px 32px #0319470c}
-.reviews-brand{color:#63768a;font-size:.68rem;font-weight:800;letter-spacing:.09em;text-transform:uppercase}
-.button-review{background:var(--blue);color:#fff;box-shadow:0 10px 24px #033d8a22}
-.button-review:hover{background:var(--navy);box-shadow:0 12px 26px #03194726}
-.reviews-note{color:#6b7c8d;font-size:.71rem;line-height:1.45}
-@media (max-width:760px){
-  .reviews-section{padding-top:58px;padding-bottom:66px}
-  .reviews-card{grid-template-columns:1fr;gap:23px;padding:25px 21px;border-radius:20px}
-  .reviews-copy h2{font-size:clamp(2.1rem,9vw,3.1rem)}
-  .reviews-action{gap:12px;padding:19px;border-radius:16px}
-  .button-review{width:100%;justify-content:space-between}
-  .reviews-card::after{top:-185px;right:-135px}
-}
